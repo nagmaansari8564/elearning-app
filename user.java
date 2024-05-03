@@ -7,10 +7,10 @@ public class user {
         
         System.out.println("NAgma");
 
-<<<<<<< Updated upstream
+
         System.out.println("i have done this worke before 101");
-=======
+
         System.out.println("yes 101");
->>>>>>> Stashed changes
+
     }
 }
